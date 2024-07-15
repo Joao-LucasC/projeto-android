@@ -30,7 +30,7 @@ body{
     font-family: var(--fonte-padrao);
 }
 a.externo::after{
-    content: '\00a0\1F517';
+    content: '\00a0\2B08';
 }
 header{
     background-image: linear-gradient(180deg, var(--cor3), var(--cor5));
